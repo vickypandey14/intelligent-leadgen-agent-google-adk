@@ -1,0 +1,49 @@
+# -------------------------
+# Laravel
+# -------------------------
+/vendor/
+/node_modules/
+/storage/*.key
+/storage/app/*
+/storage/framework/sessions/*
+/storage/framework/cache/*
+/storage/logs/*
+.env
+.env.*
+
+# Compiled
+/public/storage
+/public/hot
+/public/build
+bootstrap/cache/*.php
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# -------------------------
+# Python ADK Agent
+# -------------------------
+/lead-agent/venv/
+/lead-agent/__pycache__/
+/lead-agent/.pytest_cache/
+/lead-agent/.cache/
+/lead-agent/*.log
+
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------
+# Other
+# -------------------------
+/node_modules/
+/*.zip
+/*.rar
