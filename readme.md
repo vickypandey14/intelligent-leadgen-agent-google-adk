@@ -9,7 +9,7 @@ An AI-powered, research-driven lead generation system built with **Laravel** and
 - Intelligent Google Search–powered research  
 - Structured lead extraction (company, website, industry, hiring status, etc.)  
 - Scoring model for relevance  
-- Laravel UI + MySQL storage  
+- Laravel UI + SQLite storage  
 - Python ADK microservice acting as the AI engine  
 
 ---
