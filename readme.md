@@ -1,4 +1,4 @@
-# Intelligent Lead Generation Agent (Laravel + Google ADK)
+# Intelligent Lead Generation Agent (Laravel + Google Agent Development Kit)
 
 An AI-powered, research-driven lead generation system built with **Laravel** and a **Python microservice** using the **Google Agent Development Kit (ADK)**.
 
